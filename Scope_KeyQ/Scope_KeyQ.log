@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.7)  9 APR 2017 11:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.7)  10 APR 2017 22:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -583,60 +583,107 @@ LaTeX Font Info:    Try loading font information for LUC+nanumgt on input line
 (/usr/local/texlive/2016/texmf-dist/tex/latex/nanumtype1/lucnanumgt.fd
 File: lucnanumgt.fd 2013/02/12 v0.1 Nanum Gothic font definitions
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 24.
-
 [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 24.
+Overfull \hbox (22.25237pt too wide) in paragraph at lines 32--33
+[]\OT1/cmr/m/n/10 Episodic mi-graine\LUC/nanummj/m/n/10/d6 X\LUC/nanummj/m/n/10
+/c7 ê\LUC/nanummj/m/n/10/c5 –\LUC/nanummj/m/n/10/c1 ^^\ \LUC/nanummj/m/n/10/c6 
+^^H\LUC/nanummj/m/n/10/bc )\LUC/nanummj/m/n/10/ce X\LUC/nanummj/m/n/10/b8 Ã\ \L
+UC/nanummj/m/n/10/ce |\LUC/nanummj/m/n/10/c2 ò\LUC/nanummj/m/n/10/cc D\LUC/nanu
+mmj/m/n/10/b1 ^^P\LUC/nanummj/m/n/10/cc (\LUC/nanummj/m/n/10/b2 Ë\LUC/nanummj/m
+/n/10/c8 ^^\\OT1/cmr/m/n/10 (cal-cium chan-nel blocker;
+ []
 
-(./Scope_KeyQ.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 24.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 24.
 
+Overfull \hbox (14.50223pt too wide) in paragraph at lines 33--34
+[]\OT1/cmr/m/n/10 Episodic mi-graine\LUC/nanummj/m/n/10/d6 X\LUC/nanummj/m/n/10
+/c7 ê\LUC/nanummj/m/n/10/c5 –\LUC/nanummj/m/n/10/c1 ^^\ \LUC/nanummj/m/n/10/c6 
+^^H\LUC/nanummj/m/n/10/bc )\LUC/nanummj/m/n/10/ce X\LUC/nanummj/m/n/10/b8 Ã\ \L
+UC/nanummj/m/n/10/c5 H\LUC/nanummj/m/n/10/c9 ¿\LUC/nanummj/m/n/10/c6 $\LUC/nanu
+mmj/m/n/10/d1 P\LUC/nanummj/m/n/10/c2 ‡\LUC/nanummj/m/n/10/c8 ^^D\LUC/nanummj/m
+/n/10/d6 X®\LUC/nanummj/m/n/10/c1 å\LUC/nanummj/m/n/10/c5 µ\LUC/nanummj/m/n/10/
+c8 ^^\^^\\OT1/cmr/m/n/10 (an-giotensin
+ []
 
-Package rerunfilecheck Warning: File `Scope_KeyQ.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Scope_KeyQ.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  7EF57D7082FF82613BDF08C4119FAB6E;40.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 24.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
+ (./Scope_KeyQ.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
+Package rerunfilecheck Info: File `Scope_KeyQ.out' has not changed.
+(rerunfilecheck)             Checksum: 95E6612F0BF75A19DB29DE9C68FD29D5;88.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
  ) 
 Here is how much of TeX's memory you used:
- 5081 strings out of 493014
- 74341 string characters out of 6133352
- 156395 words of memory out of 5000000
- 8583 multiletter control sequences out of 15000+600000
- 10825 words of font info for 38 fonts, out of 8000000 for 9000
+ 5164 strings out of 493014
+ 75489 string characters out of 6133352
+ 160395 words of memory out of 5000000
+ 8620 multiletter control sequences out of 15000+600000
+ 20334 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,7n,28p,173b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbac.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbbc.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbc7.p
-fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbc8
+ 37i,7n,28p,372b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbac.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbbc.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbc7.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbc8.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmac
 .pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumgtm
-ac.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumg
-tmbc.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanu
-mgtmc7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/na
-numgtmc8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/
-nanummjbac.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype
-1/nanummjbbb.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumty
-pe1/nanummjbbc.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanum
-type1/nanummjbc2.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nan
-umtype1/nanummjbc7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/n
-anumtype1/nanummjbc8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
-/nanumtype1/nanummjbc9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
-ic/nanumtype1/nanummjbd5.pfb>
-Output written on Scope_KeyQ.pdf (1 page, 416647 bytes).
+bc.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanumg
+tmc7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanu
+mgtmc8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/na
+nummjbac.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/
+nanummjbbb.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype
+1/nanummjbbc.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumty
+pe1/nanummjbc2.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanum
+type1/nanummjbc7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nan
+umtype1/nanummjbc8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/n
+anumtype1/nanummjbc9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
+/nanumtype1/nanummjbd5.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/nanumtype1/nanummjmac.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
+blic/nanumtype1/nanummjmad.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
+public/nanumtype1/nanummjmae.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
+1/public/nanumtype1/nanummjmb0.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
+pe1/public/nanumtype1/nanummjmb1.pfb></usr/local/texlive/2016/texmf-dist/fonts/
+type1/public/nanumtype1/nanummjmb2.pfb></usr/local/texlive/2016/texmf-dist/font
+s/type1/public/nanumtype1/nanummjmb3.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/nanumtype1/nanummjmb4.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/nanumtype1/nanummjmb5.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/public/nanumtype1/nanummjmb6.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/public/nanumtype1/nanummjmb7.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb></usr/local/
+texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pf
+b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.
+pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd
+2.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanummj
+md3.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nanum
+mjmd5.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/nan
+ummjmd6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/nanumtype1/n
+anummjmd7.pfb>
+Output written on Scope_KeyQ.pdf (2 pages, 1881441 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 70 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 257 PDF objects out of 1000 (max. 8388607)
+ 197 compressed objects within 2 object streams
+ 16 named destinations out of 1000 (max. 500000)
+ 17 words of extra memory for PDF output out of 10000 (max. 10000000)
 

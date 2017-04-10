@@ -23,10 +23,12 @@ output:
 
 *****
 # Scope and key questions
-[Scope](Scope_KeyQ/Scope_KeyQ.pdf)
+[Scope and key questions](Scope_KeyQ/Scope_KeyQ.pdf)
 
 *****
 # Searching previous CPG (or evidence)
+[Search process overview](Search/SearchProcess.pdf)
+
 [Search](Search/Search.pdf)
 
 *****
