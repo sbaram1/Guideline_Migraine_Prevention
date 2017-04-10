@@ -2,7 +2,47 @@
 title: "CPG for Migraine Prevention"
 author: "Korean Headache Society"
 date: '2017'
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
-## Clinical practice guideline
+*****
+# Development group
+
+[Development group](Dev_group/Dev_group.pdf)
+
+
+*****
+# Plan for development
+
+[Plan](Plan_for_Dev/Plan_for_Dev.pdf)
+
+[Time table](Plan_for_Dev/Gantt_KHS_201703.pdf)
+
+
+*****
+# Scope and key questions
+[Scope](Scope_KeyQ/Scope_KeyQ.pdf)
+
+*****
+# Searching previous CPG (or evidence)
+[Search](Search/Search.pdf)
+
+*****
+# Evaluating the CPG (or evidence)
+
+*****
+# Making draft
+
+*****
+# Review of outside expert
+
+*****
+# Plan for revision
+
+*****
+# Publishment
+
+
+
